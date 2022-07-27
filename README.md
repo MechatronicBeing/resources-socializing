@@ -1,7 +1,7 @@
 # resources-socializing
 Free "public domain" resources for SOCIALIZING.
 
-* Nicky Case :
+> **Nicky Case** :
 > [ballot](https://mechatronicbeing.github.io/resources-socializing/applications/web/ncase/ballot/)  
 > [crowds](https://mechatronicbeing.github.io/resources-socializing/applications/web/ncase/crowds/)  
 > [fireflies](https://mechatronicbeing.github.io/resources-socializing/applications/web/ncase/fireflies/)  
