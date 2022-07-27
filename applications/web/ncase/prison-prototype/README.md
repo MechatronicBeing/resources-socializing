@@ -1,6 +1,6 @@
 - **Title** : "Prototype simulation of the US incarceration system, extended to schools and employment"
 - **Author** : Nicky Case
-  > The author was contacted by email and agree to release the prototype online and outside the original website (ncase.me) with a CC0 waiver.  
+  > The author was contacted by email and agrees to release the prototype online and outside the original website (ncase.me) with a CC0 waiver.  
   > **Response from the author** : "Sure! I'd just warn that my simulation really isn't rigorous and is not based on any data whatsoever (this is the main reason why I dropped it). As long as it's clearly labelled 'old prototype from 2016', that's fine!"
 - **License** : [Creative Commons Zero License](http://creativecommons.org/publicdomain/zero/1.0/)
   - "All code is dedicated to the public domain via CC0, with the exception of a few external libraries I didn't make."
